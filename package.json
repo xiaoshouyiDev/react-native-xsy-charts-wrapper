@@ -4,9 +4,9 @@
     "type": "git",
     "url": "https://github.com/xiaoshouyiDev/react-native-xsy-charts-wrapper.git"
   },
-  "version": "0.4.1",
+  "version": "1.0.0",
   "description": "A react-native charts support both android and ios.",
-  "author": "wuxudong",
+  "author": "xiaoshouyiDev",
   "license": "MIT",
   "nativePackage": true,
   "homepage": "https://github.com/xiaoshouyiDev/react-native-xsy-charts-wrapper",
