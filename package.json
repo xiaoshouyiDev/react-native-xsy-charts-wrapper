@@ -1,0 +1,26 @@
+{
+  "name": "react-native-xys-charts-wrapper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoshouyiDev/react-native-xsy-charts-wrapper.git"
+  },
+  "version": "0.4.1",
+  "description": "A react-native charts support both android and ios.",
+  "author": "wuxudong",
+  "license": "MIT",
+  "nativePackage": true,
+  "homepage": "https://github.com/xiaoshouyiDev/react-native-xsy-charts-wrapper",
+  "keywords": [
+    "react native",
+    "chart",
+    "android",
+    "MPAndroidChart",
+    "ios",
+    "Charts"
+  ],
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "16.1.1"
+
+  }
+}
